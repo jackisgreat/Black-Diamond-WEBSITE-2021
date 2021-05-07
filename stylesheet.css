@@ -1,3 +1,17 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.blue{
+    background-color: blue;
+    color: white;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+.green{
+    background-color: green;
+    color: white;
+}
