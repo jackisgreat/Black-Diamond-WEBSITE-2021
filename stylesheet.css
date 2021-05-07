@@ -1,17 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
-.blue{
-    background-color: blue;
-    color: white;
+body{
+    background-color: grey;
 }
-
-.red{
-    background-color: red;
-    color: white;
-}
-
-.green{
-    background-color: green;
-    color: white;
+ul li{
+    color: black;
 }
